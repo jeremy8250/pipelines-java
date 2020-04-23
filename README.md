@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/jeremy8250/test_project/_apis/build/status/jeremy8250.pipelines-java?branchName=master)](https://dev.azure.com/jeremy8250/test_project/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
